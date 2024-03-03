@@ -8,7 +8,7 @@
 
 [Dataset Link](https://www.kaggle.com/code/danielbethell/laptop-prices-prediction/input)
 
-[App Link ](https://laptoppricepredictor-jpe8cchbukvcddhjwtovmn.streamlit.app/) 
+[App Link ](https://laptoppricepredictor-jpe8cchbukvcddhjwtovmn.streamlit.app/) (If not working, click on the link and wait for a minute)
 
 [Explanation Link](https://www.linkedin.com/posts/noorain-raza_nitishsingh-krishnaik-machinelearning-activity-7117549088555859968-3Evz?utm_source=share&utm_medium=member_desktop)
 ## Description:

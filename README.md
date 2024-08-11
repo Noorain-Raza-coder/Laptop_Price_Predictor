@@ -32,23 +32,24 @@ Develop a machine learning model for predicting laptop prices based on provided 
 - Model Deployment
 
 
-## Conclusion:
-
-Achieved 89% accuracy with Random Forest Regressor in machine learning models, established a robust pipeline with feature encoding, model training, and hyperparameter tuning for performance optimization, and engineered a web application deploying the model utilizing the Streamlit framework.
-
-
 ## Tech Stack:
 
 **Programming Language:** Python
 
-**Machine Learning:** Scikit-learn
+**Machine Learning:** Random Forest Regressor
+
+**Python Libraries:** Pandas, Numpy, Matplotlib, Scikit-learn
 
 **Web Development Framework:** Streamlit
 
 **Deployment:** Streamlit Cloud
 
-**Additional Tools:** Jupyter Notebook, Pandas, Numpy, Matplotlib
+**Additional Tools:** Jupyter Notebook, Visual Studio Code
 
+
+## Conclusion:
+
+Achieved 89% accuracy with Random Forest Regressor in machine learning models, established a robust pipeline with feature encoding, model training, and hyperparameter tuning for performance optimization, and engineered a web application deploying the model utilizing the Streamlit framework.
 
 ## Results:
 ![Screenshot (2592)](https://github.com/Noorain-Raza-coder/Laptop_Price_Predictor/assets/113137065/19affc9e-a366-4a73-aab2-1ff62ec0906e)
